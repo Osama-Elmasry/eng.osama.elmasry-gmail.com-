@@ -1,4 +1,4 @@
-userID: long,sessionID: ,timestamp: dateTime,clickedPoint: coordinate,missionID: ,isHit:,nick:,twitter:,dob:,country:
+userID,sessionID: ,timestamp: dateTime,clickedPoint: coordinate,missionID: ,isHit:,nick:,twitter:,dob:,country:
 100,4356,10/12/2015::14:15:09,"(4,8)",13,yes,simmam,@SZhyOHv,7/20/1994,EG
 101,3241,10/23/2015::14:15:19,"(20,5)",18,no,stim ,@LvTHGO,4/22/1971,SU
 102,4537,11/4/2015::14:15:20,"(17,43)",21,no,bhim,@An4tm5np,4/19/1970,PF
